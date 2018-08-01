@@ -6,7 +6,6 @@ Keeping track of how I have my MacBook configured because I can never remember e
 
 ![Terminal Screenshot](./images/iterm.png)
 
-
 |    |                  |       |
 |----|------------------|-------|
 | 🖥 | Terminal Software| [iTerm2](https://www.iterm2.com) (Dark Theme)
@@ -100,23 +99,23 @@ Keeping track of how I have my MacBook configured because I can never remember e
 
 ### Browsers
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) 🦊
-- [Chrome](https://www.google.com/chrome/) 🚘
-- [Safari](https://www.apple.com/safari/) 🦁
-- [Opera](https://www.opera.com/) ♬
+- 🦊 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- 🚘 [Chrome](https://www.google.com/chrome/)
+- 🦁 [Safari](https://www.apple.com/safari/)
+- ♬ [Opera](https://www.opera.com/)
 
 ### Communication
 
-- 💬 &nbsp;[Skype for Business](https://www.microsoft.com/en-us/download/details.aspx?id=54108)
-- 💼 &nbsp;[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
-- 🗣 &nbsp;[Slack](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi9zcHQh8zcAhVFKqwKHd0VBJ4QjBAwAnoECAMQDQ&url=https%3A%2F%2Fslack.com%2Fdownloads%2Fosx&usg=AOvVaw3NrsHpKA1Xj4KjSR7e0Jpk)
+- 💬 [Skype for Business](https://www.microsoft.com/en-us/download/details.aspx?id=54108)
+- 💼 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
+- 🗣 [Slack](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi9zcHQh8zcAhVFKqwKHd0VBJ4QjBAwAnoECAMQDQ&url=https%3A%2F%2Fslack.com%2Fdownloads%2Fosx&usg=AOvVaw3NrsHpKA1Xj4KjSR7e0Jpk)
 
 ### Utilities
 
-- 📗 &nbsp;[Evernote](https://www.evernote.com) combined with [Kabanote](https://www.kanbanote.com) makes organizing tasks easy to visualize.
-- 🖥 &nbsp;[Microsoft Remote Desktop Beta](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwjx2aSVgczcAhUMHqwKHZz-BDcQFjADegQIAxAB&url=https%3A%2F%2Frink.hockeyapp.net%2Fapps%2F5e0c144289a51fca2d3bfa39ce7f2b06%2F&usg=AOvVaw0uwTXKscOh-IrYbWsguK2t) for connecting to my Windows 10 desktop for things I cannot do in macOS.
-- 🗄 &nbsp;[SQL Operations Studio](https://docs.microsoft.com/en-us/sql/sql-operations-studio/download?view=sql-server-2017) for MS SQL database operations such as browsing schema, stored procedures, functions, etc.
-- 🗂 &nbsp;[FileZilla](https://filezilla-project.org) for FTP, of course.
-- 🍺 &nbsp;[Homebrew](https://brew.sh/) for stuff. Plenty of stuff.
-- 💾 &nbsp;[Mounty](http://enjoygineering.com/mounty/) to quickly mount/unmount NTFS partitions/drives in read/write mode.
-- ☕️ &nbsp;[KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) to prevent my Mac from going to sleep.
+- 📗 [Evernote](https://www.evernote.com) combined with [Kabanote](https://www.kanbanote.com) makes organizing tasks easy to visualize.
+- 🖥 [Microsoft Remote Desktop Beta](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwjx2aSVgczcAhUMHqwKHZz-BDcQFjADegQIAxAB&url=https%3A%2F%2Frink.hockeyapp.net%2Fapps%2F5e0c144289a51fca2d3bfa39ce7f2b06%2F&usg=AOvVaw0uwTXKscOh-IrYbWsguK2t) for connecting to my Windows 10 desktop for things I cannot do in macOS.
+- 🗄 [SQL Operations Studio](https://docs.microsoft.com/en-us/sql/sql-operations-studio/download?view=sql-server-2017) for MS SQL database operations such as browsing schema, stored procedures, functions, etc.
+- 🗂 [FileZilla](https://filezilla-project.org) for FTP, of course.
+- 🍺 [Homebrew](https://brew.sh/) for stuff. Plenty of stuff.
+- 💾 [Mounty](http://enjoygineering.com/mounty/) to quickly mount/unmount NTFS partitions/drives in read/write mode.
+- ☕️ [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) to prevent my Mac from going to sleep.

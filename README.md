@@ -78,6 +78,7 @@ Keeping track of how I have my MacBook configured because I can never remember e
 - [Fish Shell Support](https://marketplace.visualstudio.com/items?itemName=TeddyDD.fish)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Gutter Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [IntelliSense for CSS Class Names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - [IntelliSense for PHP](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
 - [IntelliSense for SCSS](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)

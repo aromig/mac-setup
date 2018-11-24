@@ -1,5 +1,7 @@
 # MacBook Setup
 
+![My MacBook](./images/my_macbook.jpg)
+
 Keeping track of how I have my MacBook configured because I can never remember everything I've installed or set up on it.
 
 ## Terminal
